@@ -1,0 +1,60 @@
+body {
+    background-image: url("../IMAGES/bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+}
+div.nav {
+    margin: .75%;
+    padding: 2%;
+    background-color: rgba(0, 0, 0, 0.441);
+}
+.header img {
+    float: left;
+    width: 100px;
+    height: 75px;
+}
+
+img.icon {
+    float: right;
+    margin-right: 2%;
+    padding: 0%;
+}
+img.header {
+    top: 20px;
+    float: left;
+    margin: 0%;
+    padding: 0%;
+    position: absolute;
+}
+a{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+    font-family: Helvetica;
+}
+a:hover {
+    color: aqua;
+}
+img.dogs{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    margin: 0;
+}
+fieldset{
+    font-size: 1.5em;
+    max-width: 800px;
+    margin-left: 50px;
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: #838b64;
+    margin-right: 0;
+    margin-bottom: 60px;
+    opacity: 0.90;
+}
+
